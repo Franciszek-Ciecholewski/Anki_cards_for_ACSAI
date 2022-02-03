@@ -1,4 +1,4 @@
-# Anki_cards_for_ACSAI_people
+# Anki_cards_for_ACSAI
 
 Hi all,
 
